@@ -1,0 +1,149 @@
+.w-20{
+  width: 20%;
+}
+.w-30{
+  width: 30%;
+}
+.w-90{
+  width: 90%;
+}
+#insta-text{
+  width: 120px;
+  margin-top: 40px;
+}
+.elements div{
+  font-size: 17px;
+  margin: 20px 10px;
+}
+.elements-down div{
+  font-size: 17px;
+  margin: 30px 10px; 
+}
+.LeftPart{
+  border-right: solid rgb(211, 211, 211);
+  border-width: 1px;
+}
+.elements div i{
+  margin-right: 10px;
+  font-size: 22px;
+}
+.elements-down div i{
+  margin-right: 10px;
+  font-size: 22px;
+}
+.stories{
+  height: 100px;
+}
+.profile img{
+  height: 35px;
+  width: 35px;
+}
+.post-icons i{
+  font-size: 22px;
+  margin-right: 15px;
+}
+.save-icon,.threedot{
+  margin-left:auto;
+}
+.threedot{
+  font-size:18px;
+}
+.likes,.captions p{
+  font-weight: 600;
+  font-size: 16px;
+}
+.captions{
+  margin-top: -10px;
+}
+
+.profile-img-sugg img{
+   height: 45px;
+   width: 45px;
+}
+.profile-img-sugg b{
+  font-size: 15px;
+}
+.pname{
+  margin-left: 60px;
+  margin-top: -16px;
+  font-size: small;
+}
+.footer-sugg{
+  font-size: 13px;
+  opacity: 50%;
+}
+.story-db img{
+  height: 70px;
+  width: 70px;
+}
+.story-db p{
+  width: 70px;
+  font-size: 13px;
+  opacity: 70%;
+}
+.gradient-border {
+  width: 55px;
+  height: 55px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: linear-gradient(45deg, #ff00ff, #ff6600, #ffcc00);
+  padding: 2px;
+}
+.story-border{
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  background: linear-gradient(45deg, #ff00ff, #ff6600, #ffcc00);
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+}
+.story-db{
+  margin-left: 2.5px;
+  padding-top: 3px;
+}
+.viewstory img{
+  height: 700px;
+  width: 400px;
+  margin: 10px 0px;
+  align-items: center;
+  border-radius: 20px;
+  z-index: 1;
+}
+.viewstory{
+  position: relative;
+  display: inline-block;
+  align-items: center;
+}
+.story-profile{
+  z-index: 2;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-left: 463px;
+  margin-top: 23px;
+}
+.story-username{
+  z-index: 2;
+  position: absolute;
+  margin-left: 510px;
+  margin-top: 30px;
+  color: white;
+}
+.arrow-btn{
+  margin: 0px 10px;
+  font-size: 25px;
+  opacity: 70%;
+}
+.viewstoryimg img {
+  width: 110px;
+  margin: 10px;
+}
+.viewstoryimg i{
+color: aliceblue;
+margin-left: 85%;
+font-size: 30px;
+}
