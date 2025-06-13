@@ -61,6 +61,28 @@
         }
       ],
       "timestamp": "2025-04-01T09:45:00Z"
+    },
+     {
+      "id":4,
+      "user": {
+        "id": 101,
+        "username": "MS_Vikey",
+        "profile_pic":"DB/images/boy1.jpg" 
+      },
+      "image": "DB/posts/boy1.jpg",
+      "caption": "Beautiful sunset 🌇 #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Wow! Amazing shot! 📸"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place?"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00Z"
     }
   ],
   "profile":{
