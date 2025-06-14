@@ -9,7 +9,7 @@ function LeftPart() {
         <img src=".\src\assets\Instageam_text.png" id='insta-text' />
         <div className='elements  mt-5'>
             
-            <div className='fw-bolder'><i className="bi bi-house-door-fill "></i> Home</div>
+            <div className='fw-bolder' onClick={()=>{navigate('/')}}><i className="bi bi-house-door-fill "></i> Home</div>
             <div><i className="bi bi-search"></i> Search</div>
             <div><i className="bi bi-compass"></i> Explore</div>
             <div><i className="bi bi-compass"></i> Reels</div>

@@ -1,11 +1,11 @@
 {
   "posts": [
     {
-      "id": 1,
+      "id": "1",
       "user": {
         "id": 101,
         "username": "MS_Dhoni",
-        "profile_pic":"DB/images/boy1.jpg" 
+        "profile_pic": "DB/images/boy1.jpg"
       },
       "image": "DB/posts/boy1.jpg",
       "caption": "Beautiful sunset 🌇 #Nature",
@@ -23,7 +23,7 @@
       "timestamp": "2025-02-11T14:30:00Z"
     },
     {
-      "id": 2,
+      "id": "2",
       "user": {
         "id": 102,
         "username": "Ajith_Kumar",
@@ -41,7 +41,7 @@
       "timestamp": "2025-03-15T10:00:00Z"
     },
     {
-      "id": 3,
+      "id": "3",
       "user": {
         "id": 103,
         "username": "Priya_Sweety",
@@ -51,7 +51,7 @@
       "caption": "View from the top 🏞️",
       "likes": 89,
       "comments": [
-         {
+        {
           "user": "alice_wonder",
           "comment": "Wow! Amazing shot! 📸"
         },
@@ -62,12 +62,12 @@
       ],
       "timestamp": "2025-04-01T09:45:00Z"
     },
-     {
-      "id":4,
+    {
+      "id": "4",
       "user": {
         "id": 101,
         "username": "iam_ViGay",
-        "profile_pic":"DB/images/boy1.jpg" 
+        "profile_pic": "DB/images/boy1.jpg"
       },
       "image": "DB/posts/boy1.jpg",
       "caption": "Beautiful sunset 🌇 #Nature",
@@ -85,46 +85,49 @@
       "timestamp": "2025-02-11T14:30:00Z"
     }
   ],
-  "profile":{
-        "id": 101,
-        "username": "Ajith_Kumar_Official",
-        "name":"Ajith kumar",
-        "profile_pic":"DB/images/boy2.jpg" 
-    },
-  "suggestions":[
+  "profile": {
+    "id": 101,
+    "username": "Ajith_Kumar_Official",
+    "name": "Ajith kumar",
+    "profile_pic": "DB/images/boy2.jpg",
+    "post": "4",
+    "followers": "445",
+    "following": "234"
+  },
+  "suggestions": [
     {
-        "id": 101,
-        "username": "MS_Dhoni",
-        "profile_pic":"DB/images/boy1.jpg" 
-    },
-    {
-        "id": 102,
-        "username": "Priya_Sweety",
-        "profile_pic":"DB/images/girl1.jpg" 
+      "id": "101",
+      "username": "MS_Dhoni",
+      "profile_pic": "DB/images/boy1.jpg"
     },
     {
-        "id": 103,
-        "username": "MS_Dhoni",
-        "profile_pic":"DB/images/boy1.jpg" 
+      "id": "102",
+      "username": "Priya_Sweety",
+      "profile_pic": "DB/images/girl1.jpg"
     },
     {
-        "id": 104,
-        "username": "Thrisha_AK",
-        "profile_pic":"DB/posts/girl1.jpg" 
+      "id": "103",
+      "username": "MS_Dhoni",
+      "profile_pic": "DB/images/boy1.jpg"
+    },
+    {
+      "id": "104",
+      "username": "Thrisha_AK",
+      "profile_pic": "DB/posts/girl1.jpg"
     }
   ],
   "story": [
     {
-      "id": 1,
+      "id": "1",
       "user": {
         "id": 101,
         "username": "MS_Dhoni",
-        "profile_pic":"/DB/images/boy1.jpg" 
+        "profile_pic": "/DB/images/boy1.jpg"
       },
       "img": "/DB/story-img/boy1.jpg"
     },
     {
-      "id": 2,
+      "id": "2",
       "user": {
         "id": 102,
         "username": "Ajith_Kumar",
@@ -133,7 +136,7 @@
       "img": "/DB/story-img/boy2.jpg"
     },
     {
-      "id": 3,
+      "id": "3",
       "user": {
         "id": 103,
         "username": "Priya_Sweety",
